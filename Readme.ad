@@ -1,0 +1,50 @@
+
+server Foler Commands
+    1. npm init
+    2. npm i express cors dotenv nodemon jsonwebtoken mongoose bcryptjs nodemailer cookie-parser 
+
+    Yeh saari dependencies hain jo alag-alag kaam ke liye use hoti hain. Aasan alfaz me inka kaam yeh hai:  
+
+1. **express**  
+   Web applications banane ke liye lightweight aur fast framework hai. Yeh server handle karne me madad karta hai.  
+
+2. **cors**  
+   Alag-alag domains ke beech data share karne ki permission deta hai (Cross-Origin Resource Sharing).  
+
+3. **dotenv**  
+   Secret information (jaise API keys, database URLs) ko environment variables ke through securely handle karne ke liye use hota hai.  
+
+4. **nodemon**  
+   Code likhte waqt server automatically restart kar deta hai jab bhi code me changes karte ho. Developer-friendly hota hai.  
+
+5. **jsonwebtoken**  
+   Secure authentication ke liye tokens generate aur verify karta hai, jaise login karne ke baad session manage karna.  
+
+6. **mongoose**  
+   MongoDB ke saath kaam karne ke liye ek library hai, jo database queries ko simple aur structure-oriented banati hai.  
+
+7. **bcryptjs**  
+   Passwords ko securely encrypt karne ke liye use hota hai.  
+
+8. **nodemailer**  
+   Email bhejne ke liye use hota hai (e.g., password reset ya notification emails).  
+
+9. **cookie-parser**  
+   Browser cookies ko read aur manage karne ke liye use hota hai.  
+
+Ye libraries ek web application ke back-end ko secure aur functional banane ke liye madad karti hain.
+
+Run Commands => npm run server
+
+Client Foler Commands
+
+1. npm create vite@latest
+2. npm install
+3. npm install axios react-router-dom react-toastify
+
+Run Commands => npm run dev
+
+
+ ******** Extension ******** 
+   1. ES7 React/Redux/GraphQL/React-Native snippets by rodrigovallades
+   2. 
